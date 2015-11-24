@@ -7,7 +7,7 @@ Colors
 ------
 
 * Dark Blue: rgb(8, 108, 149) / #086c95
-* Light Blue: rgba(22, 148, 190) / #1694be
+* Light Blue: rgb(22, 148, 190) / #1694be
 
 Fonts
 -----

@@ -12,4 +12,4 @@ Colors
 Fonts
 -----
 
-* Headlines: [Lato](http://www.latofonts.com/) ([Lato on Google Fonts](https://www.google.com/fonts#UsePlace:use/Collection:Lato))
+* Headlines: [Lato](http://www.latofonts.com/) ([Lato on Google Fonts](https://fonts.google.com/specimen/Lato))
